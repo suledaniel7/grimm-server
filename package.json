@@ -1,0 +1,19 @@
+{
+  "name": "grimm-server",
+  "version": "1.0.0",
+  "description": "Mini Chat App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suledaniel7/grimm-server.git"
+  },
+  "author": "Daniel Sule",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suledaniel7/grimm-server/issues"
+  },
+  "homepage": "https://github.com/suledaniel7/grimm-server#readme"
+}
