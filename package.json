@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/suledaniel7/grimm-server/issues"
   },
-  "homepage": "https://github.com/suledaniel7/grimm-server#readme"
+  "homepage": "https://github.com/suledaniel7/grimm-server#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.1",
+    "express-jwt": "^6.1.0",
+    "firebase-admin": "^10.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "md5": "^2.3.0",
+    "twilio": "^3.70.0"
+  }
 }
